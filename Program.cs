@@ -35,8 +35,8 @@ while (contador < quantidade)
 if (contador > 0)
     {
         decimal media = soma / quantidade;
-        Console.WriteLine($"Soma...: {soma:n2}");
-        Console.WriteLine($"Média..: {media:n2}");
+        Console.WriteLine($"Soma..........: {soma:n2}");
+        Console.WriteLine($"Média.........: {media:n2}");
         Console.WriteLine($"Número maior..: {numeroMaior:n2}");
         Console.WriteLine($"Número menor..: {numeroMenor:n2}");
     }
